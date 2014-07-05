@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre8_32"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Arduino/lib/RXTXcomm.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Program Files (x86)/Arduino"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Coding/Eclipse/libraries/JavaCV/artoolkitplus-windows-x86.jar"/>
+	<classpathentry kind="lib" path="D:/Coding/Eclipse/libraries/JavaCV/ffmpeg-windows-x86.jar"/>
+	<classpathentry kind="lib" path="D:/Coding/Eclipse/libraries/JavaCV/flycapture-windows-x86.jar"/>
+	<classpathentry kind="lib" path="D:/Coding/Eclipse/libraries/JavaCV/javacpp.jar"/>
+	<classpathentry kind="lib" path="D:/Coding/Eclipse/libraries/JavaCV/javacv.jar"/>
+	<classpathentry kind="lib" path="D:/Coding/Eclipse/libraries/JavaCV/libfreenect-windows-x86.jar"/>
+	<classpathentry kind="lib" path="D:/Coding/Eclipse/libraries/JavaCV/opencv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="D:/Coding/Eclipse/libraries/JavaCV/videoinput-windows-x86.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
